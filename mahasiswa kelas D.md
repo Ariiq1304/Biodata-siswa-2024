@@ -1,7 +1,7 @@
 1. Nama : Agam Gunawan
    NPM  : 065122098
    JK   : Cowo
-   Alamat : Cijeruk
+   Alamat : Tajur Halang
 
 2. Nama : Faqih Fatturachman
    NPM  : 065122103
@@ -16,7 +16,7 @@
 4. Nama : Muhammad Ariiq Al-Basith
    NPM  : 065122106
    Jk   : Cowo
-   Alamat : Cibeureum
+   Alamat : Cibeureum Bogor
 
 5. Nama : Muhammad Alif Fadillah
    NPM  : 065122109
